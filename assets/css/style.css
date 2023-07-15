@@ -5,9 +5,7 @@
 .navbar-brand {
     width: 120px;
 }
-.navbar-brand img{
-    width: 100%;
-}
+
 
 .mainHeader .navbar-nav .active>.nav-link, 
 .mainHeader .navbar-nav .nav-link.active, 
