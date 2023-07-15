@@ -3,10 +3,10 @@
     transition: all 0.4s ease-in;
 }
 .navbar-brand {
-    font-size: 2rem;
-    font-weight: 700;
-    color: orange !important;
-    font-style: italic;
+    width: 120px;
+}
+.navbar-brand img{
+    width: 100%;
 }
 
 .mainHeader .navbar-nav .active>.nav-link, 
@@ -47,7 +47,7 @@
     background-attachment: fixed;
 }
 .gallery-images .gallery-image a{
-    height: 250px;
+    height: 300px;
     display: inline-block;
     width: 100%;
     margin-bottom: 20px;
