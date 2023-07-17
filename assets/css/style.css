@@ -70,6 +70,13 @@
     .myMedia img{
         width: 80%;
     }
+    .newsLetter .form-inline .form-group{
+        flex: 0 0 100%;
+    }
+    .newsLetter button{
+        display: block;
+        width: 100%;
+    }
    }
 
   .testimonials .owl-theme .owl-nav {
